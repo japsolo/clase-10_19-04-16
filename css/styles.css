@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /* CSS Document  */
 /* Project name: TP SASS */
 /* File name: styles.css */
@@ -356,6 +357,7 @@ footer {
   footer a {
     font-size: 14px; }
 
+/*/ 5. MediaQueries (siempre van de último) */
 /***************************************** */
 /*=========     MEDIA-QUERIES    ========= */
 /***************************************** */
